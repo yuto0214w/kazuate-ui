@@ -1,0 +1,14 @@
+{
+  "name": "kazuate-ui",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "prettier": "^3.8.1"
+  },
+  "devDependencies": {
+    "prettier-plugin-jsdoc": "^1.8.0"
+  }
+}
